@@ -1,7 +1,7 @@
 #  Olá, bem-vindo(a) ao meu perfil!
 
 <h1>
-  Olá, eu sou Linnyck0 
+  Olá, eu sou o Linnyck
   <img src="./claude-claude-code.gif" width="40" style="vertical-align: middle;" alt="Claude Mascot">
 </h1>
 
