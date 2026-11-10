@@ -1,5 +1,9 @@
 #  Olá, bem-vindo(a) ao meu perfil!
-# Olá, eu sou ">
+
+<h1>
+  Olá, eu sou Linnyck0 
+  <img src="./claude-claude-code.gif" width="40" style="vertical-align: middle;" alt="Claude Mascot">
+</h1>
 
 Sou estudante do ensino médio técnico em **Manutenção e Suporte em Informática**, bastante interessado em tecnologia, Inteligência Artificial e soluções em Nuvem.
 
